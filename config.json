@@ -1,0 +1,13 @@
+{
+  "provider" : "http://127.0.0.1:8545",
+  "provider_wss" : "ws://127.0.0.1:8546",
+  "address": "secret",
+  "private_key": "secret",
+  "new_token_address": "0xb3fa62ed37e885e3f6b98f1bf9eaa724bb9aff39",
+  "new_token_server": "0xFE66442a6d9eaCeB0156a45de340F48F04d74C1D",
+  "trailing_stop": 20,
+  "slippage": 100,
+  "gas_limit": 900000,
+  "gas_price": 6,
+  "amount" : 0.3
+}
